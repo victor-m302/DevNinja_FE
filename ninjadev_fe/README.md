@@ -1,8 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+##Overview da versão 1
 
-<img src="https://github.com/victor-m302/DevNinja_FE/blob/master/ninjadev_fe/view.png" alt="view" width=40% />
+<img src="https://github.com/victor-m302/DevNinja_FE/blob/master/ninjadev_fe/view.png" alt="view" width=50% />
 
+## Menu Legalzinho
+
+<img src="https://github.com/victor-m302/DevNinja_FE/blob/master/ninjadev_fe/menu.gif" alt="view" width=40% />
 
 
 
