@@ -1,0 +1,40 @@
+.button {
+    background-color: #fddb3a; /* Green */
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .button2 {
+    border-radius: 4px;
+    float: right;
+    margin-top: -20%;
+    margin-right: 5%;
+  }
+  
+
+
+  .cadastraHidden{
+    /* margin: 0 30%; */
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+    overflow: hidden;
+    display: none;
+  }
+    
+  
+  .cadastraShow{
+  /* margin: 0 30%; */
+  margin: auto;
+  width: 60%;
+  padding: 10px;
+  overflow: hidden;
+  display: block;
+  }
+  
